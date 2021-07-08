@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="Mendel90 - PLA" version="2021-07-06 22:39:30" app="S3D-Software 4.1.2">
+<profile name="Mendel90 - PLA" version="2021-07-07 21:20:14" app="S3D-Software 4.1.2">
   <baseProfile>Default (modified)</baseProfile>
   <printMaterial></printMaterial>
   <printQuality></printQuality>
@@ -114,7 +114,7 @@
   <applyToolheadOffsets>0</applyToolheadOffsets>
   <gcodeXoffset>0</gcodeXoffset>
   <gcodeYoffset>0</gcodeYoffset>
-  <gcodeZoffset>0.33</gcodeZoffset>
+  <gcodeZoffset>0.22</gcodeZoffset>
   <overrideMachineDefinition>1</overrideMachineDefinition>
   <machineTypeOverride>0</machineTypeOverride>
   <strokeXoverride>200</strokeXoverride>
